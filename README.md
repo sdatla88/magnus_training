@@ -1,2 +1,2 @@
 # magnus_training
-**This is my traning** TEST DATA
+**This is my training** TEST DATA
